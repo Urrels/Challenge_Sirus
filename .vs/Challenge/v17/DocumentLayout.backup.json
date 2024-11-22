@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|solutionrelative:api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\api\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|solutionrelative:api\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\application\\order\\commands\\order\\saveordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|solutionrelative:application\\order\\commands\\order\\saveordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\application\\order\\queries\\getitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|solutionrelative:application\\order\\queries\\getitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\application\\order\\queries\\getsellersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|solutionrelative:application\\order\\queries\\getsellersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D870DD6-FF24-46B6-98C3-008D3F3AF9C4}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\application\\data\\sellers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|solutionrelative:application\\data\\sellers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|c:\\users\\giselaurrels\\source\\repos\\api\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC676CF5-8735-4496-99EE-EC82B1262E72}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T03:32:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Order\\Queries\\GetItemsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Order\\Queries\\GetItemsQuery.cs",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Order\\Queries\\GetItemsQuery.cs",
+              "RelativeToolTip": "Application\\Order\\Queries\\GetItemsQuery.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:47:04.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:40:33.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:35:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\API\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "API\\Controllers\\SellerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:29:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetSellersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Order\\Queries\\GetSellersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Order\\Queries\\GetSellersQuery.cs",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Order\\Queries\\GetSellersQuery.cs",
+              "RelativeToolTip": "Application\\Order\\Queries\\GetSellersQuery.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:26:00.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sellers.json",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Data\\sellers.json",
+              "RelativeDocumentMoniker": "Application\\Data\\sellers.json",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Data\\sellers.json",
+              "RelativeToolTip": "Application\\Data\\sellers.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T01:20:29.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T00:59:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Order\\Commands\\Order\\SaveOrderCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Order\\Commands\\Order\\SaveOrderCommand.cs",
+              "ToolTip": "C:\\Users\\GiselaURRELS\\source\\repos\\API\\Application\\Order\\Commands\\Order\\SaveOrderCommand.cs",
+              "RelativeToolTip": "Application\\Order\\Commands\\Order\\SaveOrderCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:35:27.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

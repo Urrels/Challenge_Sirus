@@ -1,0 +1,28 @@
+{
+  "vendedores": [
+    {
+      "id": 1,
+      "descripcion": "Hernan Garna"
+    },
+    {
+      "id": 2,
+      "descripcion": "Lucas Lauriente"
+    },
+    {
+      "id": 3,
+      "descripcion": "Martin Gomez"
+    },
+    {
+      "id": 4,
+      "descripcion": "Alan Tellerio"
+    },
+    {
+      "id": 5,
+      "descripcion": "Gonzalo Hernandez"
+    },
+    {
+      "id": 6,
+      "descripcion": "Ezequiel Martinez"
+    }
+  ]
+}
